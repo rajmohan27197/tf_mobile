@@ -1,0 +1,4 @@
+#Sat Mar 31 17:45:30 IST 2018
+base.0=/home/rajmohan/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/transforms/dexMerger/debug/3
+renamed.0=classes.dex
+file.0=/home/rajmohan/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/transforms/dexMerger/debug/3/classes.dex
